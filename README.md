@@ -122,7 +122,7 @@ streamlit run app.py
 
 Shows candidate details and job role input.
 
-![alt text](<home screen.jpeg>)
+<img width="1600" height="781" alt="home screen" src="https://github.com/user-attachments/assets/c3bd940f-dd3a-406f-9ec7-3bac707598da" />
 
 ---
 
@@ -130,7 +130,8 @@ Shows candidate details and job role input.
 
 Role-specific AI-generated interview questions.
 
-![alt text](Question.jpeg)
+<img width="1600" height="482" alt="Question" src="https://github.com/user-attachments/assets/079cf6ef-3564-4768-967d-cf4b8f1498c6" />
+
 
 ---
 
@@ -144,7 +145,8 @@ Displays:
 - AI Feedback
 - Expected Answer
 
-![alt text](Evaluation.jpeg)
+<img width="1600" height="780" alt="Evaluation" src="https://github.com/user-attachments/assets/b700431e-b46b-4009-bb25-83dfd0be6163" />
+
 
 ---
 
@@ -157,7 +159,8 @@ Displays:
 - Hiring Recommendation
 - Question-wise Evaluation
 
-![alt text](<Interview report.jpeg>)
+<img width="1600" height="784" alt="Interview report" src="https://github.com/user-attachments/assets/f4f5af39-93d7-4ba9-9a69-2c861ed5cd5e" />
+
 
 ---
 
@@ -165,7 +168,8 @@ Displays:
 
 Generated downloadable interview report.
 
-![alt text](pdf.jpeg)
+<img width="801" height="928" alt="pdf" src="https://github.com/user-attachments/assets/7988aa14-babf-48b1-8779-a3dfcc744269" />
+
 
 ---
 
